@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoLog", "EchoLog.csproj", "{16D74735-001E-4599-A663-904E5E50F84B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoLog.Tests", "EchoLog.Tests\EchoLog.Tests.csproj", "{8628023B-4EF2-4A9C-8560-3A0E9F446AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D74735-001E-4599-A663-904E5E50F84B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D74735-001E-4599-A663-904E5E50F84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D74735-001E-4599-A663-904E5E50F84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D74735-001E-4599-A663-904E5E50F84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8628023B-4EF2-4A9C-8560-3A0E9F446AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8628023B-4EF2-4A9C-8560-3A0E9F446AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8628023B-4EF2-4A9C-8560-3A0E9F446AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8628023B-4EF2-4A9C-8560-3A0E9F446AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,243 @@
+# Ignore the build output directories
+bin/
+obj/
+
+# Rider specific files
+.idea/
+.idea_modules/
+.idea_name/
+.idea_description/
+.idea.*
+.idea_name.iml
+.idea_modules.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider workspace file
+.idea/workspace.xml
+
+# Rider bookmark file
+.idea/bookmarks.xml
+
+# Rider dictionary file
+.idea/dictionaries
+
+# Rider code style settings
+.idea/codeStyles
+
+# Rider coverage data
+.idea/coverage
+
+# Rider inspections data
+.idea/inspectionProfiles
+
+# Rider caches
+.idea/compiler.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/.name
+.idea/projectCodeStyle.xml
+.idea/vcs.xml
+
+# Rider project files
+*.iws
+*.iml
+*.ipr
+
+# Rider run configurations
+.idea/runConfigurations/
+
+# Rider linting results
+.idea/inspectionProfiles/Project_Default.xml
+.idea/scopes/scope_settings.xml
+
+# Rider asset index cache
+.idea/assetIndex
+
+# NuGet packages
+*.nupkg
+**/packages/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directory
+.vscode/
+
+# Exclude Rider workspace and local history files
+.idea/workspace.xml
+.idea/libraries
+.idea/recentProjects.xml
+.idea/shelf
+.idea/tasks
+
+# Rider temporary files
+.idea/*.tmp
+
+# Rider database
+.idea/dataSources
+.idea/dataSources.ids
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Rider logs
+.idea/log
+
+# Rider extra configs
+.idea/misc.xml
+.idea/dictionaries
+.idea/httpRequests
+
+# .NET user-specific
+**/bin/
+**/obj/
+
+# Rider caches and log files
+.idea/.idea_modules
+.idea/.idea_name
+.idea_description
+.idea/.name
+.idea/*.iws
+.idea/.tasks
+
+# Rider workspace
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/runConfigurations
+
+# Rider coverage
+.idea/.coverage
+
+# Rider run configurations
+.idea/runConfigurations/*.xml
+
+# Rider IDE settings
+.idea/misc.xml
+.idea/vcs.xml
+.idea/dictionaries
+
+# Rider UI design settings
+.idea/uiDesigner.xml
+
+# Rider custom dictionaries
+.idea/dictionaries
+
+# Rider database settings
+.idea/dataSources
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dynamic.xml
+
+# Rider shelf (for shelfing changes)
+.idea/shelf
+
+# Rider tasks (task management)
+.idea/tasks
+
+# Rider PHP specific
+.idea/php
+.idea/ide-php.xml
+
+# Rider JavaScript specific
+.idea/jarRepositories.xml
+.idea/spring.xml
+.idea/jsLibraryMappings.xml
+.idea/watcherTasks.xml
+
+# Rider TypeScript specific
+.idea/tsconfig.json
+
+# Rider remote development settings
+.idea/remote-xml
+.idea/remote-rdp.xml
+
+# Rider shared index settings
+.idea/sharedIndexes
+
+# Rider shared VCS settings
+.idea/sharedVcs.xml
+
+# Rider config files
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/codeStyle.xml
+
+# Rider inspections
+.idea/inspectionProfiles/*.xml
+
+# Rider todo settings
+.idea/todo.xml
+
+# Rider custom scope settings
+.idea/scopes/scope_settings.xml
+
+# Rider all xml files
+.idea/*.xml
+
+# Rider workspace files
+.idea/workspace.xml
+
+# Rider run configurations
+.idea/runConfigurations/*.xml
+
+# Rider local settings
+.idea/local
+
+# Rider code styles
+.idea/codeStyles/
+
+# Rider inspections
+.idea/inspectionProfiles/
+.idea/inspectionProfiles/profiles_settings.xml
+
+# Rider editor settings
+.idea/editor.xml
+
+# Rider data sources
+.idea/dataSources/
+.idea/dataSources.ids
+
+# Rider dynamic file
+.idea/dynamic.xml
+
+# Rider run configurations
+.idea/runConfigurations/
+
+# Rider cache
+.idea/cache
+
+# Rider dictionaries
+.idea/dictionaries
+
+# Rider tasks
+.idea/tasks
+
+# Rider xml files
+.idea/*.xml
+
+# Rider shared indexes
+.idea/sharedIndexes/
+
+# Rider inspections
+.idea/inspectionProfiles/profiles_settings.xml
+
+# Rider webserver
+.idea/webServer.xml
+
+# Rider projects
+.idea/projects.xml
+.idea/projects.settings.xml
